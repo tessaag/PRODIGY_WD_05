@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+    color:#6138a8
+  }
+  
+  #location {
+    margin-bottom: 20px;
+    color:#441e84
+  }
+  
+  #weatherInfo {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: 0 auto;
+    color: #2e0a6c;
+  }
+  
+  #submitBtn
+  {
+    color:#441e84;
+  }
+  
